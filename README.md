@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @AmishaLamsal
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front End Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-SDE Intern @ Bajaj Finserv
 
 <!---
 AmishaLamsal/AmishaLamsal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
